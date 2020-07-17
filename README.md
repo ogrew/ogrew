@@ -22,8 +22,8 @@ update: 07 / 17 / 2020
 |2012/4|東北大学 工学部 情報知能システム総合学科 入学|
 |2016/4|東北大学 大学院 工学研究科 電子工学専攻 修士課程 入学|
 |2017/4|同大学院 中退|
-|2017/4|株式会社カヤックにエンジニアとして入社|
-|2019/12|カヤックアキバスタジオに転籍出向|
+|2017/4|株式会社カヤック 入社|
+|2019/12|カヤックアキバスタジオ 転籍出向|
 
 ### 【職務経歴】
 #### ■ 株式会社 カヤック
@@ -66,34 +66,47 @@ update: 07 / 17 / 2020
 ### 【スキル】
 #### ■ プログラミング
 - 実務経験あり
+```
 	□ Perl
 	□ Go
 	□ C# (Unity)
-	□ SQL
+	□ SQL	
+```
 - 趣味とか研究とか
+```
 	□ Python
 	□ GLSL
 	□ Node.js
 	□ Processing / p5js
 	□ D3.js
+
+```
 #### ■ ツール / ソフトウェア
 - 結構好き、結構遊んでいる
-	□ TouchDesinger
-	□ Blender
-	□ Adobe After Effects
+```
+□ TouchDesinger
+□ Blender
+□ Adobe After Effects
+```
 - 基本的な使い方とかはわかる、チュートリアルとかやる
-	□ Houdini
-	□ Notch
-	□ Adobe PhotoShop		
-	□ Adobe Premiere Pro
-	□ DaVinci Resolve
+```
+□ Houdini
+□ Notch
+□ Adobe PhotoShop		
+□ Adobe Premiere Pro
+□ DaVinci Resolve
+```
 - 触ったことがある、何者かは知っている
-	□ Adobe Illustrator
-	□ Unreal Engine
+```
+□ Adobe Illustrator
+□ Unreal Engine
+□ Smode
+```
 #### ■ その他
-	□ AWS
-	□ Git (GitHub)
-
+```
+□ AWS
+□ Git (GitHub)
+f```
 ### 【自己PR】
 業務を通して、Webサービス&アプリケーションにおけるサーバーサイド（あとちょっとインフラ）の基本的なことを理解しています。Unityエンジンによるゲームのクライアントの仕組みを…。仕事以外で個人のグラフィックや映像制作を継続して行っています。BlenderやMaya等を使った基本的なモデリング知識、Houdiniによるプロシージャルモデリングの哲学…。
 
