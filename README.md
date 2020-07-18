@@ -6,15 +6,12 @@ update: 07 / 17 / 2020
 
 大河原 綾人 (AYATO, Ohkawara)
 
-| data | link |
-|---|---|
-|メールアドレス|<a  href="mailto:2044taiga&#64;gmail.com">2044taiga&#64;gmail.com</a>|
-|Webサイト|[ayato.me](ayato.me)|
-|Twitter|[@dn0t_](https://twitter.com/dn0t_)|
-|Facebook|[ayato.ookawara](https://www.facebook.com/ayato.ookawara)|
-|Instagram|[@dn0t_](https://www.instagram.com/dn0t_)|
-|Qiita|[ogrew](https://qiita.com/ogrew)|
-|Blog(はてな)|[1225](https://taiga.hatenadiary.com)|
+|  |  |link|  |  |link|
+|---|---|---|---|---|---|
+|📨|メール|<a  href="mailto:2044taiga&#64;gmail.com">2044taiga&#64;gmail.com</a>|😜|Web|[ayato.me](ayato.me)|
+|🕊️|Twitter|[@dn0t_](https://twitter.com/dn0t_)|📷|Instagram|[@dn0t_](https://www.instagram.com/dn0t_)|
+|📚|Blog|[1225](https://taiga.hatenadiary.com)|👪|Facebook|[ayato.ookawara](https://www.facebook.com/ayato.ookawara)|
+|🍏|Qiita|[ogrew](https://qiita.com/ogrew)||||
 
 ### 【略歴】
 |date|   |
