@@ -13,7 +13,7 @@ last-update: 07 / 18 / 2020
 |📨|Mail|<a  href="mailto:2044taiga&#64;gmail.com">2044taiga&#64;gmail.com</a>|😜|Web|[ayato.me](ayato.me)|
 |🕊️|Twitter|[@dn0t_](https://twitter.com/dn0t_)|📷|Instagram|[@dn0t_](https://www.instagram.com/dn0t_)|
 |📚|Blog|[1225](https://taiga.hatenadiary.com)|👪|Facebook|[ayato.ookawara](https://www.facebook.com/ayato.ookawara)|
-|🍏|Qiita|[ogrew](https://qiita.com/ogrew)|🌈|NEORT|[@ayato](https://neort.io/@ayato)|
+|🍏|Qiita|[@ogrew](https://qiita.com/ogrew)|🌈|NEORT|[@ayato](https://neort.io/@ayato)|
 
 ### 💁 略歴
 |date|event|
@@ -114,6 +114,7 @@ BlenderやMaya等を使った基本的なモデリング知識、Houdiniによ�
 #### 💬 その他
 ```
 	□ AWS
+	□ Arduino
 	□ Git (GitHub)
 	□ Docker
 ```
