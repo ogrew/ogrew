@@ -72,7 +72,7 @@ last-update: 07 / 18 / 2020
 BlenderやMaya等を使った基本的なモデリング知識、Houdiniによるプロシージャルツールの考え方、Adobeツールを使った静画/動画制作の経験などがあります。  
 カヤック在籍に執筆した[みんなの「理念解釈」 浦島太郎の教訓と２つの"スキ"](https://www.kayac.com/news/2019/06/philosophy_blog_vol9)の文章がネットにある自分の内面について一番長く語っている文章です。  
 学生時代は[インターネット番組](https://mediage.org/programs/if-i-am)の企画、編集、出演をしていました。  
-趣味で友人と[Podcast番組を毎週配信](http://350can.beer)しています。しゃべるのが好きです。  
+趣味で友人と[Podcast番組を毎週配信](http://350can.beer)しています。しゃべるのが好きです。ただ、滑舌が悪いです。  
 
 ### 💁 スキル
 #### 💬 プログラミング
@@ -112,6 +112,7 @@ BlenderやMaya等を使った基本的なモデリング知識、Houdiniによ�
 	□ Adobe Illustrator
 	□ Unreal Engine
 	□ Smode
+	□ C4D
 ```
 #### 💬 その他
 ```
