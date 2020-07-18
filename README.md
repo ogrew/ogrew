@@ -1,4 +1,4 @@
-# 職務経歴書
+# Resume
 
 update: 07 / 17 / 2020
 
@@ -84,29 +84,29 @@ update: 07 / 17 / 2020
 #### ■ ツール / ソフトウェア
 - 結構好き、結構遊んでいる
 ```
-□ TouchDesinger
-□ Blender
-□ Adobe After Effects
+	□ TouchDesinger
+	□ Blender
+	□ Adobe After Effects
 ```
 - 基本的な使い方とかはわかる、チュートリアルとかやる
 ```
-□ Houdini
-□ Notch
-□ Adobe PhotoShop		
-□ Adobe Premiere Pro
-□ DaVinci Resolve
+	□ Houdini
+	□ Notch
+	□ Adobe PhotoShop		
+	□ Adobe Premiere Pro
+	□ DaVinci Resolve
 ```
 - 触ったことがある、何者かは知っている
 ```
-□ Adobe Illustrator
-□ Unreal Engine
-□ Smode
+	□ Adobe Illustrator
+	□ Unreal Engine
+	□ Smode
 ```
 #### ■ その他
 ```
-□ AWS
-□ Git (GitHub)
-□ Docker
+	□ AWS
+	□ Git (GitHub)
+	□ Docker
 ```
 
 ### 【自己PR】
@@ -114,8 +114,6 @@ update: 07 / 17 / 2020
 またUnityエンジンによるソーシャルゲームのクライアントの仕組みをざっくりと把握しています。  
 仕事以外で個人のグラフィックや映像制作を継続して行っています。  
 BlenderやMaya等を使った基本的なモデリング知識、Houdiniによるプロシージャルツールの考え方、Adobeツールを使った静画/動画制作の経験などがあります。  
-
-### 【志望動機】
-TODO:
+趣味で友人と[Podcast番組を毎週配信](http://350can.beer)しています。しゃべるのが好きです。
 
 以上
