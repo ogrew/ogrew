@@ -23,7 +23,7 @@ update: 07 / 17 / 2020
 |2019/12|カヤックアキバスタジオ 転籍出向|
 
 ### 💁 職務経歴
-#### ■ 株式会社 カヤック
+#### 💬 株式会社 カヤック
 **[案件１]** ソーシャルゲーム開発（自社 / ノンIPタイトル / 運用フェーズ 3〜5年目）
 - サーバサイドエンジニア（メイン言語 Perl, 2017年 4月 ～ 2018年10月）
   - ミニゲームの開発。
@@ -40,7 +40,7 @@ update: 07 / 17 / 2020
   - クリーンアーキテクチャの基盤づくり補助。
   - マスターデータのインポート、エクスポート管理。
 
-#### ■ 株式会社 カヤックアキバスタジオ(現職)
+#### 💬 株式会社 カヤックアキバスタジオ(現職)
 **[案件]** ソーシャルゲーム開発 （クライアント有 / IPタイトル / 新規開発）
 - Unityエンジニア（2019年12月 ～）
   - デザイナとともにUI制作。 
@@ -48,28 +48,28 @@ update: 07 / 17 / 2020
   - Jenkinsを導入、Provisioning Profileの更新と自動ビルドの仕組み。
 
 ### 💁 業務外活動
-#### ■ 社内勉強会 / つくっていとも の運営 
+#### 💬 社内勉強会 / つくっていとも の運営 
   - 社内勉強会のスケジュール管理、発表資料集め
   - イベントフライヤーの制作 [参考1](https://twitter.com/dn0t_/status/1244996420228141057) / [参考2](https://twitter.com/dn0t_/status/1158742231152357379) / [参考3](https://twitter.com/dn0t_/status/1146057398525648897)
   - 社内有志でクリエイティブツール( C4D / Blender / TouchDesinger )勉強会も主催
-#### ■ TDSW で TouchDesigner の講座 (2019 / 10 / 06)
+#### 💬 TDSW で TouchDesigner の講座 (2019 / 10 / 06)
   - https://xsquare002.peatix.com/view
-#### ■ PCJ ZINEの制作
+#### 💬 PCJ ZINEの制作
   - https://booth.pm/ja/items/2150150
-#### ■ Artistreet Tokyo. でチャリティTシャツ販売
+#### 💬 Artistreet Tokyo. でチャリティTシャツ販売
   - https://artistreet.official.ec/items/29162585
   - https://artistreet.official.ec/items/31107135
 
 ### 💁 スキル
-#### ■ プログラミング
-- 実務経験あり
+#### 💬 プログラミング
+📦 実務経験あり
 ```
 	□ Perl (2yrs)
 	□ Go (1yrs)
 	□ C# (Unity) (0.5yrs)
 	□ SQL (2yrs)
 ```
-- 趣味とか研究とか
+📦 趣味とか研究とか
 ```
 	□ Python
 	□ GLSL
@@ -78,14 +78,14 @@ update: 07 / 17 / 2020
 	□ D3.js
 
 ```
-#### ■ ツール / ソフトウェア
-- 結構好き、結構遊んでいる
+#### 💬 ツール / ソフトウェア
+📦 結構好き、結構遊んでいる
 ```
 	□ TouchDesinger
 	□ Blender
 	□ Adobe After Effects
 ```
-- 基本的な使い方とかはわかる、チュートリアルとかやる
+📦 基本的な使い方とかはわかる、チュートリアルとかやる
 ```
 	□ Houdini
 	□ Notch
@@ -93,13 +93,13 @@ update: 07 / 17 / 2020
 	□ Adobe Premiere Pro
 	□ DaVinci Resolve
 ```
-- 触ったことがある、何者かは知っている
+📦 触ったことがある、何者かは知っている
 ```
 	□ Adobe Illustrator
 	□ Unreal Engine
 	□ Smode
 ```
-#### ■ その他
+#### 💬 その他
 ```
 	□ AWS
 	□ Git (GitHub)
