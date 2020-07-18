@@ -6,7 +6,7 @@ last-update: 07 / 18 / 2020
 
 ### 💁 個人情報
 
-大河原 綾人 (AYATO, Ohkawara)
+アヤト オオカワラ (AYATO, Ohkawara)
 
 |  |  |link|  |  |link|
 |---|---|---|---|---|---|
@@ -55,13 +55,16 @@ last-update: 07 / 18 / 2020
   - イベントフライヤーの制作 [参考1](https://twitter.com/dn0t_/status/1244996420228141057) / [参考2](https://twitter.com/dn0t_/status/1158742231152357379) / [参考3](https://twitter.com/dn0t_/status/1146057398525648897)
   - 社内有志でクリエイティブツール( C4D / Blender / TouchDesinger )勉強会も主催
 #### 💬 TDSW で TouchDesigner の講座 (2019 / 10 / 06)
-  - https://xsquare002.peatix.com/view
+  - [【 バナナを回したその後は。】 by Ohkawara Ayato](https://xsquare002.peatix.com/view)
 #### 💬 PCJ ZINEの制作
-  - https://booth.pm/ja/items/2150150
+  - [PCJ ZINE vo.0 - pcdtokyo](https://booth.pm/ja/items/2150150)
 #### 💬 Artistreet Tokyo. でチャリティTシャツ販売
-  - https://artistreet.official.ec/items/29162585
-  - https://artistreet.official.ec/items/31107135
-
+  - [【N】凪いだ日々のつづき（ayato）- Artistreet Tokyo.](https://artistreet.official.ec/items/29162585)
+  - [【N】vista（ayato）- Artistreet Tokyo.](https://artistreet.official.ec/items/31107135)
+#### 💬 Citrus in the rainのグラフィック担当
+  - [Citrus in the rain「マイルールマイルーム」- Music Video](https://www.youtube.com/watch?v=gnN5KFpihB4)
+  - [Citrus in the rain「ミッドナイトデート」- Music Video](http://www.youtube.com/watch?v=zSlVW1eyBsM)
+ 
 ### 💁 自己PR
 業務を通して、Webサービス&アプリケーションにおけるサーバーサイド（あとちょっとインフラ）の基礎的なことを理解しています。  
 またUnityエンジンによるソーシャルゲームのクライアントの仕組みをざっくりと把握しています。  
