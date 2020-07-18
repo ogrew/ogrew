@@ -1,6 +1,8 @@
-# 💾Resume
+# 💾 Resume
 
-update: 07 / 17 / 2020
+<div style="text-align: right;">
+last-update: 07 / 18 / 2020
+</div>
 
 ### 💁 個人情報
 
