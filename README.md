@@ -8,13 +8,13 @@ update: 07 / 17 / 2020
 
 |  |  |link|  |  |link|
 |---|---|---|---|---|---|
-|📨|メール|<a  href="mailto:2044taiga&#64;gmail.com">2044taiga&#64;gmail.com</a>|😜|Web|[ayato.me](ayato.me)|
+|📨|Mail|<a  href="mailto:2044taiga&#64;gmail.com">2044taiga&#64;gmail.com</a>|😜|Web|[ayato.me](ayato.me)|
 |🕊️|Twitter|[@dn0t_](https://twitter.com/dn0t_)|📷|Instagram|[@dn0t_](https://www.instagram.com/dn0t_)|
 |📚|Blog|[1225](https://taiga.hatenadiary.com)|👪|Facebook|[ayato.ookawara](https://www.facebook.com/ayato.ookawara)|
 |🍏|Qiita|[ogrew](https://qiita.com/ogrew)||||
 
 ### 【略歴】
-|date|   |
+|date|event|
 |---|---|
 |2012/4|東北大学 工学部 情報知能システム総合学科 入学|
 |2016/4|東北大学 大学院 工学研究科 電子工学専攻 修士課程 入学|
@@ -50,9 +50,9 @@ update: 07 / 17 / 2020
 ### 【業務外活動】
 #### ■ 社内勉強会 / つくっていとも の運営 
   - 社内勉強会のスケジュール管理、発表資料集め
-  - イベントフライヤーの制作 参考1 / 参考2 / 参考3
-  - 社内有志でクリエイティブツール(C4D / Blender / TouchDesinger)勉強会も主催
-#### ■ TDSW で TouchDesigner の講座
+  - イベントフライヤーの制作 [参考1](https://twitter.com/dn0t_/status/1244996420228141057) / [参考2](https://twitter.com/dn0t_/status/1158742231152357379) / [参考3](https://twitter.com/dn0t_/status/1146057398525648897)
+  - 社内有志でクリエイティブツール( C4D / Blender / TouchDesinger )勉強会も主催
+#### ■ TDSW で TouchDesigner の講座 (2019 / 10 / 06)
   - https://xsquare002.peatix.com/view
 #### ■ PCJ ZINEの制作
   - https://booth.pm/ja/items/2150150
