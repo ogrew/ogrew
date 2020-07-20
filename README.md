@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 07 / 18 / 2020
+last-update: 07 / 21 / 2020
 </div>
 
 ### 💁 情報
@@ -70,7 +70,7 @@ last-update: 07 / 18 / 2020
 またUnityエンジンによるソーシャルゲームのクライアントの仕組みをざっくりと把握しています。  
 2018年の夏頃から日々継続して、仕事以外の個人でのグラフィックや映像制作を[SNSで発信](https://www.instagram.com/dn0t_/)しています。（クオリティは…）  
 BlenderやMaya等を使った基本的なモデリング知識、Houdiniによるプロシージャルツールの考え方、Adobeツールを使った静画/動画制作の経験などがあります。  
-カヤック在籍に執筆した[みんなの「理念解釈」 浦島太郎の教訓と２つの"スキ"](https://www.kayac.com/news/2019/06/philosophy_blog_vol9)の文章がネットにある自分の内面について一番長く語っている文章です。  
+[みんなの「理念解釈」 浦島太郎の教訓と２つの"スキ"](https://www.kayac.com/news/2019/06/philosophy_blog_vol9)という長文ポエムがネットにある自分の内面について一番長く語っている文章です。  
 学生時代は[インターネット番組(Ustream)を毎週配信](https://mediage.org/programs/if-i-am)の企画、編集、出演をしていました。  
 趣味で友人と[Podcast番組を毎週配信](http://350can.beer)しています。しゃべるのが好きです。ただ、滑舌が悪いです。  
 
