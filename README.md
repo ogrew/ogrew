@@ -35,12 +35,12 @@ last-update: 07 / 21 / 2020
 #### 💬 株式会社 カヤック
 **[案件１]** 📲 ソーシャルゲーム開発（自社 / ノンIPタイトル / 運用フェーズ 3〜5年目）
 - サーバサイドエンジニア（メイン言語 Perl, 2017年 4月 ～ 2018年10月）
-  - ミニゲームの開発。
-  - 周年記念のインゲーム大型アップデートを担当。
+  - 新規ミニゲームの開発。
+  - X周年記念のインゲーム大型アップデートを担当。
   - Redashの活用、CS対応のワークフロー化。
 - エンジニアリーダー（2018年10月 ～ 2019年1月）
   - 残業の見える化。
-  - ジニアスキルの見える化。
+  - 技術スキルの見える化。
   - ペアプロランチ。
 
 **[案件２]** 📲 ソーシャルゲーム開発（クライアント有 / ノンIPタイトル / 新規開発）
@@ -61,7 +61,7 @@ last-update: 07 / 21 / 2020
 #### 💬 Artistreet Tokyo. でチャリティTシャツ販売
   - [【N】凪いだ日々のつづき（ayato）- Artistreet Tokyo.](https://artistreet.official.ec/items/29162585)
   - [【N】vista（ayato）- Artistreet Tokyo.](https://artistreet.official.ec/items/31107135)
-#### 💬 Citrus in the rainのグラフィック担当
+#### 💬 Citrus in the rainの映像担当
   - [Citrus in the rain「マイルールマイルーム」- Music Video](https://www.youtube.com/watch?v=gnN5KFpihB4)
   - [Citrus in the rain「ミッドナイトデート」- Music Video](http://www.youtube.com/watch?v=zSlVW1eyBsM)
  
