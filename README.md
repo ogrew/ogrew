@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 07 / 21 / 2020
+last-update: 07 / 27 / 2020
 </div>
 
 ### 💁 情報
@@ -64,6 +64,8 @@ last-update: 07 / 21 / 2020
 #### 💬 Citrus in the rainの映像担当
   - [Citrus in the rain「マイルールマイルーム」- Music Video](https://www.youtube.com/watch?v=gnN5KFpihB4)
   - [Citrus in the rain「ミッドナイトデート」- Music Video](http://www.youtube.com/watch?v=zSlVW1eyBsM)
+#### 💬 感覚ピエロのライブ演出（一部お手伝い）
+- [感覚ピエロ 5-6th anniversary『LIVE - RATION 2019 FINAL』](https://twitter.com/dn0t_/status/1191359712186355712)
  
 ### 💁 自己PR
 Webサービス&アプリケーションにおけるサーバーサイド（あとちょっとインフラ）の基礎的なことを理解しています。  
@@ -80,48 +82,48 @@ BlenderやMaya等を使った基本的なモデリング知識、Houdiniによ�
 #### 💬 プログラミング
 📦 実務経験あり
 ```
-	□ Perl (2yrs)
-	□ Go (1yrs)
-	□ C# (Unity) (0.5yrs)
-	□ MySQL (2yrs)
+□ Perl (2yrs)
+□ Go (1yrs)
+□ C# (Unity) (0.5yrs)
+□ MySQL (2yrs)
 ```
 📦 趣味とか研究とか
 ```
-	□ Python
-	□ GLSL
-	□ Node.js
-	□ Processing / p5js
-	□ D3.js
+□ Python
+□ GLSL
+□ Node.js
+□ Processing / p5js
+□ D3.js
 
 ```
 #### 💬 ツール / ソフトウェア
 📦 結構好き、結構遊んでいる
 ```
-	□ TouchDesinger
-	□ Blender
-	□ Adobe After Effects
+□ TouchDesinger
+□ Blender
+□ Adobe After Effects
 ```
 📦 基本的な使い方とかはわかる、チュートリアルとかやる
 ```
-	□ Houdini
-	□ Notch
-	□ Adobe PhotoShop		
-	□ Adobe Premiere Pro
-	□ DaVinci Resolve
+□ Houdini
+□ Notch
+□ Adobe PhotoShop		
+□ Adobe Premiere Pro
+□ DaVinci Resolve
 ```
 📦 触ったことがある、何者かは知っている
 ```
-	□ Adobe Illustrator
-	□ Unreal Engine
-	□ Smode
-	□ C4D
+□ Adobe Illustrator
+□ Unreal Engine
+□ Smode
+□ C4D
 ```
 #### 💬 その他
 ```
-	□ AWS
-	□ Arduino
-	□ Git (GitHub)
-	□ Docker
+□ AWS
+□ Arduino
+□ Git (GitHub)
+□ Docker
 ```
 
 ### 💁 転職理由
