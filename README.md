@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 01 / 21 / 2021
+last-update: 0２ / 02 / 2021
 </div>
 
 ### 💁 情報
