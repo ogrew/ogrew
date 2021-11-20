@@ -28,7 +28,10 @@ last-update: 19 / 05 / 2021
 ### 💁 職務経歴(新しい順)
 
 #### 💬 THINK&SENSE(現職)
-（ここに追記していく。）
+- [CONDENSE - Break the Bias (Official Music Video)](https://www.youtube.com/watch?v=vxED1mIpDLM) 
+  - 動画解析（Instance Segmentation)、TouchDesingerでエフェクト作成
+- [MIRROR LIAR FILMS Season1 kanazawa ジャパンプレミア](https://www.moguravr.com/think-and-sense-mirrorliar-films-partnership/)
+  - 入場口インスタレーション制作
 
 #### 💬 株式会社 カヤックアキバスタジオ
 **[案件１]** 📲 ソーシャルゲーム開発 （クライアント有 / IPタイトル / 新規開発）
@@ -76,6 +79,8 @@ last-update: 19 / 05 / 2021
   - [Citrus in the rain「ミッドナイトデート」- Music Video](http://www.youtube.com/watch?v=zSlVW1eyBsM)
   - [【MV】Citrus in the rain「きまぐれウィークエンド」- Music Video](https://www.youtube.com/watch?v=CdJw2mQBGnw)
   - [【MV】Citrus in the rain「ラブ イン ザ クローゼット」- Music Video](https://www.youtube.com/watch?v=Xltg_KQiYxY)
+  - [【MV】Citrus in the rain「Night Owl」- Music Video](https://www.youtube.com/watch?v=8wFVeFkKIU8)
+
 #### 💬 感覚ピエロのライブ演出（一部お手伝い）
 - [感覚ピエロ 5-6th anniversary『LIVE - RATION 2019 FINAL』](https://twitter.com/dn0t_/status/1191359712186355712)
  
@@ -96,7 +101,7 @@ BlenderやMaya等を使った基本的なモデリング知識、Houdiniによ�
 ```
 □ Perl (2yrs)
 □ Go (1yrs)
-□ C# (Unity) (1.5yrs)
+□ C# (Unity) (2.5yrs)
 □ MySQL (2yrs)
 ```
 📦 趣味とか研究とか
