@@ -32,6 +32,10 @@ last-update: 20 / 11 / 2021
   - 動画解析（Instance Segmentation)、TouchDesingerでエフェクト作成
 - [MIRROR LIAR FILMS Season1 kanazawa ジャパンプレミア](https://www.moguravr.com/think-and-sense-mirrorliar-films-partnership/)
   - 入場口インスタレーション制作
+- [MIKUBREAK](https://mikubreak.com)
+  - ライブアプリ開発
+- [両足院マルチバース展](https://wired.jp/branded/2021/12/16/ryosokuin/)
+  - GANsの技術を利用して「枯山水」を学習したモデルを使ったインスタレーション作品
 
 #### 💬 株式会社 カヤックアキバスタジオ
 **[案件１]** 📲 ソーシャルゲーム開発 （クライアント有 / IPタイトル / 新規開発）
