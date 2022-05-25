@@ -1,10 +1,10 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 20 / 11 / 2021
+last-update: 05 / 25 / 2022
 </div>
 
-### 💁 情報
+## 💁 情報
 
 アヤト オオカワラ (AYATO, Ohkawara)
 
@@ -15,7 +15,7 @@ last-update: 20 / 11 / 2021
 |📚|Blog|[1225](https://taiga.hatenadiary.com)|👪|Facebook|[ayato.ookawara](https://www.facebook.com/ayato.ookawara)|
 |🍏|Qiita|@ogrew|🌈|NEORT|[@ayato](https://neort.io/@ayato)|
 
-### 💁 略歴
+## 💁 略歴
 |date|event|
 |---|---|
 |2012/04|東北大学 工学部 情報知能システム総合学科 入学|
@@ -25,8 +25,8 @@ last-update: 20 / 11 / 2021
 |2019/12|カヤックアキバスタジオ 転籍出向|
 |2021/05|THINK&SENSE 入社|
 
-### 💁 スキル
-#### 💬 プログラミング
+## 💁 スキル
+### 💬 プログラミング
 📦 実務経験あり
 ```
 □ C# (Unity)
@@ -40,7 +40,7 @@ last-update: 20 / 11 / 2021
 □ Processing / p5js
 ```
 
-#### 💬 ツール / ソフトウェア
+### 💬 ツール / ソフトウェア
 📦 よく使う
 ```
 □ TouchDesinger
@@ -61,7 +61,7 @@ last-update: 20 / 11 / 2021
 □ Smode
 ```
 
-#### 💬 その他
+### 💬 その他
 ```
 □ AWS
 □ Git (GitHub)
@@ -69,9 +69,9 @@ last-update: 20 / 11 / 2021
 □ Docker
 ```
 
-### 💁 職務経歴(新しい順)
+## 💁 職務経歴(新しい順)
 
-#### 💬 THINK&SENSE(現職)
+### 💬 THINK&SENSE(現職)
 - [CONDENSE - Break the Bias (Official Music Video)](https://www.youtube.com/watch?v=vxED1mIpDLM) 
   - 動画解析（Instance Segmentation)、TouchDesingerでエフェクト作成
 - [MIRROR LIAR FILMS Season1 kanazawa ジャパンプレミア](https://www.moguravr.com/think-and-sense-mirrorliar-films-partnership/)
@@ -81,7 +81,7 @@ last-update: 20 / 11 / 2021
 - [両足院マルチバース展](https://wired.jp/branded/2021/12/16/ryosokuin/)
   - GANsの技術を利用して「枯山水」を学習したモデルを使ったインスタレーション作品
 
-#### 💬 株式会社 カヤックアキバスタジオ
+### 💬 株式会社 カヤックアキバスタジオ
 **[案件１]** 📲 ソーシャルゲーム開発 （クライアント有 / IPタイトル / 新規開発）
 - Unityエンジニア（2020年10月 ～）
   - アウトゲームの機能開発（要件定義から実装まで）。 
@@ -93,7 +93,7 @@ last-update: 20 / 11 / 2021
   - SNS連携（引き継ぎ、プレイ動画シェア）。
   - Jenkinsを導入、Provisioning Profileの更新と自動ビルドの仕組み。
     
-#### 💬 株式会社 カヤック
+### 💬 株式会社 カヤック
 **[案件１]** 📲 ソーシャルゲーム開発（クライアント有 / ノンIPタイトル / 新規開発）
 - サーバサイドエンジニア（メイン言語 Go, 2019年1月 ～ 2019年12月）
   - テンプレートからの網羅的なテスト生成。
@@ -110,31 +110,31 @@ last-update: 20 / 11 / 2021
   - 技術スキルの見える化。
   - ペアプロランチ。
 
-### 💁 業務外活動
-#### 💬 TDSW で TouchDesigner の講座 (2019 / 10 / 06)
+## 💁 業務外活動
+### 💬 TDSW で TouchDesigner の講座 (2019 / 10 / 06)
   - [【 バナナを回したその後は。】 by Ohkawara Ayato](https://xsquare002.peatix.com/view)
-#### 💬 PCJ ZINEの制作
+### 💬 PCJ ZINEの制作
   - [PCJ ZINE vo.0 - pcdtokyo](https://booth.pm/ja/items/2150150)
-#### 💬 Artistreet Tokyo. でチャリティTシャツ販売
+### 💬 Artistreet Tokyo. でチャリティTシャツ販売
   - [【N】凪いだ日々のつづき（ayato）- Artistreet Tokyo.](https://artistreet.official.ec/items/29162585)
   - [【N】vista（ayato）- Artistreet Tokyo.](https://artistreet.official.ec/items/31107135)
-#### 💬 Citrus in the rainの映像担当
+### 💬 Citrus in the rainの映像担当
   - [Citrus in the rain「マイルールマイルーム」- Music Video](https://www.youtube.com/watch?v=gnN5KFpihB4)
   - [Citrus in the rain「ミッドナイトデート」- Music Video](http://www.youtube.com/watch?v=zSlVW1eyBsM)
   - [【MV】Citrus in the rain「きまぐれウィークエンド」- Music Video](https://www.youtube.com/watch?v=CdJw2mQBGnw)
   - [【MV】Citrus in the rain「ラブ イン ザ クローゼット」- Music Video](https://www.youtube.com/watch?v=Xltg_KQiYxY)
   - [【MV】Citrus in the rain「Night Owl」- Music Video](https://www.youtube.com/watch?v=8wFVeFkKIU8)
 
-### 💁 ポエム
+## 💁 ポエム
 [みんなの「理念解釈」 浦島太郎の教訓と２つの"スキ"](https://www.kayac.com/news/2019/06/philosophy_blog_vol9) 
 
-### 💁 その他
+## 💁 その他
 学生時代は[インターネット番組(Ustream)を毎週配信](https://mediage.org/programs/if-i-am)していました。企画、編集、出演をしていました。  
 趣味で友人と[Podcast番組を毎週配信](http://350can.beer)をしています。始まって１年ほど経ちました。しゃべるのが好きです。滑舌は悪いです。  
 
-### 💁 転職意欲
+## 💁 転職意欲
 
-現在は、すばらしい仕事に恵まれており、積極的に転職活動を行っておりません。
+現在は、すばらしい仕事に恵まれており、積極的に転職活動を行っておりません。  
 お話は随時受付ております。もしも、ご興味持っていただけた方はSNSなどからお気軽にご連絡ください。
 
 以上
