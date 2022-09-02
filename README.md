@@ -12,7 +12,7 @@ last-update: 09 / 02 / 2022
 |---|---|---|---|---|---|
 |📨|Mail|<a  href="mailto:2044taiga&#64;gmail.com">2044taiga&#64;gmail.com</a>|😜|OpenProcessing|[tearon](https://openprocessing.org/user/261125)|
 |🕊️|Twitter|[@dn0t_](https://twitter.com/dn0t_)|📷|Instagram|[@dn0t_](https://www.instagram.com/dn0t_)|
-|📚|Blog|[1225](https://taiga.hatenadiary.com)|👪|Facebook|[ayato.ookawara](https://www.facebook.com/ayato.ookawara)|
+|📚|Blog|[Continue(s)](https://taiga.hatenadiary.com)|👪|Facebook|[ayato.ookawara](https://www.facebook.com/ayato.ookawara)|
 |🍏|Qiita|@ogrew|🌈|NEORT|[@ayato](https://neort.io/@ayato)|
 
 ## 💁 略歴
