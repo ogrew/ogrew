@@ -1,16 +1,16 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 05 / 25 / 2022
+last-update: 09 / 02 / 2022
 </div>
 
 ## 💁 情報
 
-アヤト オオカワラ (AYATO, Ohkawara)
+アヤト オオカワラ (AYATO, Okawara)
 
 |  |  |link|  |  |link|
 |---|---|---|---|---|---|
-|📨|Mail|<a  href="mailto:2044taiga&#64;gmail.com">2044taiga&#64;gmail.com</a>|😜|Web|ayato.me|
+|📨|Mail|<a  href="mailto:2044taiga&#64;gmail.com">2044taiga&#64;gmail.com</a>|😜|OpenProcessing|[tearon](https://openprocessing.org/user/261125)|
 |🕊️|Twitter|[@dn0t_](https://twitter.com/dn0t_)|📷|Instagram|[@dn0t_](https://www.instagram.com/dn0t_)|
 |📚|Blog|[1225](https://taiga.hatenadiary.com)|👪|Facebook|[ayato.ookawara](https://www.facebook.com/ayato.ookawara)|
 |🍏|Qiita|@ogrew|🌈|NEORT|[@ayato](https://neort.io/@ayato)|
@@ -71,12 +71,16 @@ last-update: 05 / 25 / 2022
 ## 💁 職務経歴(新しい順)
 
 ### 💬 THINK&SENSE(現職)
+- [Seventeen夏の学園祭 2022](https://seventeen-web.jp/news/14948/)
+  - AR演出および配信システムの開発（TouchDesigner）
+- [木梨憲武展 Timing －瞬間の光り－](https://www.softbank.jp/sbnews/entry/20220609_01)
+  - ユーザ参加型のコンテンツ開発（Unity）
 - [CONDENSE - Break the Bias (Official Music Video)](https://www.youtube.com/watch?v=vxED1mIpDLM) 
-  - 動画解析（Instance Segmentation)、TouchDesingerでエフェクト作成
+  - 動画解析（Instance Segmentation)、エフェクト作成（TouchDesigner）
 - [MIRROR LIAR FILMS Season1 kanazawa ジャパンプレミア](https://www.moguravr.com/think-and-sense-mirrorliar-films-partnership/)
-  - 入場口インスタレーション制作
+  - 入場口インスタレーション制作（TouchDesigner）
 - [MIKUBREAK](https://mikubreak.com)
-  - ライブアプリ開発
+  - ライブアプリ開発（Unity）
 - [両足院マルチバース展](https://wired.jp/branded/2021/12/16/ryosokuin/)
   - GANsの技術を利用して「枯山水」を学習したモデルを使ったインスタレーション作品
 
@@ -107,9 +111,11 @@ last-update: 05 / 25 / 2022
 - エンジニアリーダー（2018年10月 ～ 2019年1月）
   - 残業の見える化。
   - 技術スキルの見える化。
-  - ペアプロランチ。
+  - ペアプロランチ実施。
 
 ## 💁 業務外活動
+### 💬 p5jsオリジナル作品集
+  - [Kraft](https://dn0t.booth.pm/items/4030928)
 ### 💬 TDSW で TouchDesigner の講座 (2019 / 10 / 06)
   - [【 バナナを回したその後は。】 by Ohkawara Ayato](https://xsquare002.peatix.com/view)
 ### 💬 PCJ ZINEの制作
