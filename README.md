@@ -121,7 +121,8 @@ last-update: 09 / 05 / 2022
 ### 💬 TDSW で TouchDesigner の講座 (2019 / 10 / 06)
   - [【 バナナを回したその後は。】 by Ohkawara Ayato](https://xsquare002.peatix.com/view)
 ### 💬 PCJ ZINEの制作
-  - [PCJ ZINE vo.0 - pcdtokyo](https://booth.pm/ja/items/2150150)
+  - [PCJ ZINE vo.0 - pcdtokyo](https://pcdtokyo.booth.pm/items/2150150)
+  - [PCJ ZINE vo.1 - pcdtokyo](https://pcdtokyo.booth.pm/items/2408455)
 ### 💬 Artistreet Tokyo. でチャリティTシャツ販売
   - [【N】凪いだ日々のつづき（ayato）- Artistreet Tokyo.](https://artistreet.official.ec/items/29162585)
   - [【N】vista（ayato）- Artistreet Tokyo.](https://artistreet.official.ec/items/31107135)
@@ -137,7 +138,7 @@ last-update: 09 / 05 / 2022
 
 ## 💁 その他
 学生時代は[インターネット番組(Ustream)を毎週配信](https://mediage.org/programs/if-i-am)していました。企画、編集、出演をしていました。  
-2019年の夏から趣味で友人と[Podcast番組を毎週配信]([http://350can.beer](https://anchor.fm/350can))をしています。
+2019年の夏から趣味で友人と[Podcast番組を毎週配信](https://anchor.fm/350can)をしています。
 しゃべるのが好きです。滑舌は悪いです。  
 
 ## 💁 転職意欲
