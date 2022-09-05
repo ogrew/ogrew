@@ -71,20 +71,20 @@ last-update: 09 / 05 / 2022
 ## 💁 職務経歴(新しい順)
 
 ### 💬 THINK&SENSE(現職)
-- [CONDENSE - Break the Bias (Official Music Video)](https://www.youtube.com/watch?v=vxED1mIpDLM) 
-  - 動画解析（Instance Segmentation)、エフェクト作成（TouchDesigner）
-- [MIRROR LIAR FILMS Season1 kanazawa ジャパンプレミア](https://www.moguravr.com/think-and-sense-mirrorliar-films-partnership/)
-  - 入場口インスタレーション制作（TouchDesigner）
-- [MIKU BREAK ver.1.0](https://thinkandsense.com/works/miku-break-1/)
-  - ライブアプリ開発（Unity）
-- [両足院マルチバース展](https://wired.jp/branded/2021/12/16/ryosokuin/)
-  - GANsの技術を利用して「枯山水」を学習したモデルを使ったインスタレーション作品
-- [Moments of Life　いけばな×映画、アートが融合する 時空間ミュージアム](https://www.ikenobo.jp/event/26809/)
-  - 映像演出（Unity）
-- [木梨憲武展 Timing －瞬間の光り－](https://www.softbank.jp/sbnews/entry/20220609_01)
-  - ユーザ参加型のコンテンツ開発（Unity）
 - [Seventeen夏の学園祭 2022](https://seventeen-web.jp/news/14948/)
   - AR演出および配信システムの開発（TouchDesigner）
+- [木梨憲武展 Timing －瞬間の光り－](https://www.softbank.jp/sbnews/entry/20220609_01)
+  - ユーザ参加型のコンテンツ開発（Unity）
+- [Moments of Life　いけばな×映画、アートが融合する 時空間ミュージアム](https://www.ikenobo.jp/event/26809/)
+  - 映像演出（Unity）
+- [両足院マルチバース展](https://wired.jp/branded/2021/12/16/ryosokuin/)
+  - GANsの技術を利用して「枯山水」を学習したモデルを使ったインスタレーション作品
+- [MIKU BREAK ver.1.0](https://thinkandsense.com/works/miku-break-1/)
+  - ライブアプリ開発（Unity）
+- [MIRROR LIAR FILMS Season1 kanazawa ジャパンプレミア](https://www.moguravr.com/think-and-sense-mirrorliar-films-partnership/)
+  - 入場口インスタレーション制作（TouchDesigner）
+- [CONDENSE - Break the Bias (Official Music Video)](https://www.youtube.com/watch?v=vxED1mIpDLM) 
+  - 動画解析（Instance Segmentation)、エフェクト作成（TouchDesigner）
 
 ### 💬 株式会社 カヤックアキバスタジオ
 **[案件１]** 📲 ソーシャルゲーム開発 （クライアント有 / IPタイトル / 新規開発）
