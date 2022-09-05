@@ -79,6 +79,8 @@ last-update: 09 / 02 / 2022
   - ライブアプリ開発（Unity）
 - [両足院マルチバース展](https://wired.jp/branded/2021/12/16/ryosokuin/)
   - GANsの技術を利用して「枯山水」を学習したモデルを使ったインスタレーション作品
+- [Moments of Life　いけばな×映画、アートが融合する 時空間ミュージアム](https://www.ikenobo.jp/event/26809/)
+  - 映像演出（Unity）
 - [木梨憲武展 Timing －瞬間の光り－](https://www.softbank.jp/sbnews/entry/20220609_01)
   - ユーザ参加型のコンテンツ開発（Unity）
 - [Seventeen夏の学園祭 2022](https://seventeen-web.jp/news/14948/)
