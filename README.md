@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 09 / 02 / 2022
+last-update: 09 / 05 / 2022
 </div>
 
 ## 💁 情報
@@ -75,7 +75,7 @@ last-update: 09 / 02 / 2022
   - 動画解析（Instance Segmentation)、エフェクト作成（TouchDesigner）
 - [MIRROR LIAR FILMS Season1 kanazawa ジャパンプレミア](https://www.moguravr.com/think-and-sense-mirrorliar-films-partnership/)
   - 入場口インスタレーション制作（TouchDesigner）
-- [MIKU BREAK ver.1.0]([https://mikubreak.com](https://thinkandsense.com/works/miku-break-1/))
+- [MIKU BREAK ver.1.0](https://thinkandsense.com/works/miku-break-1/)
   - ライブアプリ開発（Unity）
 - [両足院マルチバース展](https://wired.jp/branded/2021/12/16/ryosokuin/)
   - GANsの技術を利用して「枯山水」を学習したモデルを使ったインスタレーション作品
