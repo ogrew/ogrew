@@ -71,9 +71,11 @@ last-update: 09 / 05 / 2022
 ## 💁 職務経歴(新しい順)
 
 ### 💬 THINK&SENSE(現職)
+- [NARS PLAY YOUR POWER WALL](https://thinkandsense.com/works/nars-play-your-power-wall/)
+  - Vive Trackerを用いたインタラクティブコンテンツ（Unity）
 - [Seventeen夏の学園祭 2022](https://seventeen-web.jp/news/14948/)
   - AR演出および配信システムの開発（TouchDesigner）
-- [木梨憲武展 Timing －瞬間の光り－](https://www.softbank.jp/sbnews/entry/20220609_01)
+- [木梨憲武展 Timing －瞬間の光り－](https://thinkandsense.com/works/kinashiten/)
   - ユーザ参加型のコンテンツ開発（Unity）
 - [Moments of Life　いけばな×映画、アートが融合する 時空間ミュージアム](https://www.ikenobo.jp/event/26809/)
   - 映像演出（Unity）
@@ -83,7 +85,7 @@ last-update: 09 / 05 / 2022
   - ライブアプリ開発（Unity）
 - [MIRROR LIAR FILMS Season1 kanazawa ジャパンプレミア](https://www.moguravr.com/think-and-sense-mirrorliar-films-partnership/)
   - 入場口インスタレーション制作（TouchDesigner）
-- [CONDENSE - Break the Bias (Official Music Video)](https://www.youtube.com/watch?v=vxED1mIpDLM) 
+- [CONDENSE - Break the Bias](https://thinkandsense.com/works/intel-pc-fes-2021break-the-bias/) 
   - 動画解析（Instance Segmentation)、エフェクト作成（TouchDesigner）
 
 ### 💬 株式会社 カヤックアキバスタジオ
