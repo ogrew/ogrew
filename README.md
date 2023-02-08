@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 09 / 05 / 2022
+last-update: 02 / 08 / 2023
 </div>
 
 ## 💁 情報
@@ -71,13 +71,19 @@ last-update: 09 / 05 / 2022
 ## 💁 職務経歴(新しい順)
 
 ### 💬 THINK&SENSE(現職)
+- [両足院マルチバース展2022](https://thinkandsense.com/works/ryosokuin-multiverse-2022/)
+  - Kinectでいけばなの成長・退化の様子をセンシングした結果をデータビジュアライズ（TouchDesigner）
+- [マンガダイブ ジャンプフェスタ2023](https://thinkandsense.com/works/mangadivejumpfesta23/)
+  - 人気アニメの映像を使ったオーディオリアクティブコンテンツ（TouchDesigner）
 - [NARS PLAY YOUR POWER WALL](https://thinkandsense.com/works/nars-play-your-power-wall/)
   - Vive Trackerを用いたインタラクティブコンテンツ（Unity）
+- [MIKU BREAK ヒャクセツフトウ](https://thinkandsense.com/works/miku-break-%e3%83%92%e3%83%a3%e3%82%af%e3%82%bb%e3%83%84%e3%83%95%e3%83%88%e3%82%a6/)
+  - BibCamを改造した撮影アプリ（Unity）と、それを解析するアプリ（TouchDesigner）
 - [Seventeen夏の学園祭 2022](https://seventeen-web.jp/news/14948/)
   - AR演出および配信システムの開発（TouchDesigner）
 - [木梨憲武展 Timing －瞬間の光り－](https://thinkandsense.com/works/kinashiten/)
   - ユーザ参加型のコンテンツ開発（Unity）
-- [Moments of Life　いけばな×映画、アートが融合する 時空間ミュージアム](https://www.ikenobo.jp/event/26809/)
+- [Moments of Life　いけばな×映画、アートが融合する 時空間ミュージアム](https://thinkandsense.com/works/moments-of-life/)
   - 映像演出（Unity）
 - [両足院マルチバース展](https://wired.jp/branded/2021/12/16/ryosokuin/)
   - GANsの技術を利用して「枯山水」を学習したモデルを使ったインスタレーション作品
