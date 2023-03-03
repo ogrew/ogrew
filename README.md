@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 02 / 08 / 2023
+last-update: 03 / 03 / 2023
 </div>
 
 ## 💁 情報
@@ -26,46 +26,38 @@ last-update: 02 / 08 / 2023
 
 ## 💁 スキル
 ### 💬 プログラミング
-📦 実務経験あり
+📦 実務
 ```
 □ C# (Unity)
 □ Go
 □ Perl
 ```
-📦 趣味とか研究とか
+📦 趣味
 ```
 □ Python
 □ GLSL
-□ Processing / p5js
+□ Processing(p5js)
 ```
 
 ### 💬 ツール / ソフトウェア
 📦 よく使う
 ```
-□ TouchDesinger
+□ Unity
+□ TouchDesigner
+□ Unreal Engine
 □ Blender
-□ Adobe After Effects
 ```
 📦 使ったことがある
 ```
 □ Houdini
+□ Disguise
 □ Notch
-□ DaVinci Resolve
-□ Unreal Engine
 ```
 📦 触ったことがある
 ```
-□ Adobe Illustrator
-□ C4D
+□ DaVinci Resolve
 □ Smode
-```
-
-### 💬 その他
-```
-□ AWS
-□ Git (GitHub)
-□ Arduino
-□ Docker
+□ C4D
 ```
 
 ## 💁 職務経歴(新しい順)
