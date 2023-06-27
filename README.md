@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 03 / 03 / 2023
+last-update: 06 / 27 / 2023
 </div>
 
 ## 💁 情報
@@ -63,6 +63,15 @@ last-update: 03 / 03 / 2023
 ## 💁 職務経歴(新しい順)
 
 ### 💬 THINK&SENSE(現職)
+
+#### 2023
+- [OAU 「セラヴィ -c’est la vie-」](https://thinkandsense.com/works/oau-cest-la-vie/)
+  - NeRF(Neural Radiance Fields)に関する技術検証
+- [BRAHMAN 暗影演舞](https://thinkandsense.com/works/brahman-aneienbu/)
+  - 一部人気楽曲のライブ演出の製作、オペレーションを担当
+- [マンガダイブ ジャンプフェスタ2023](https://thinkandsense.com/works/mangadivejumpfesta23/)
+  - 人気漫画「チェンソーマン」の映像演出を担当（TouchDesigner）
+#### 2022
 - [両足院マルチバース展2022](https://thinkandsense.com/works/ryosokuin-multiverse-2022/)
   - Kinectでいけばなの成長・退化の様子をセンシングした結果をデータビジュアライズ（TouchDesigner）
 - [マンガダイブ ジャンプフェスタ2023](https://thinkandsense.com/works/mangadivejumpfesta23/)
@@ -77,6 +86,7 @@ last-update: 03 / 03 / 2023
   - ユーザ参加型のコンテンツ開発（Unity）
 - [Moments of Life　いけばな×映画、アートが融合する 時空間ミュージアム](https://thinkandsense.com/works/moments-of-life/)
   - 映像演出（Unity）
+#### 2021
 - [両足院マルチバース展](https://wired.jp/branded/2021/12/16/ryosokuin/)
   - GANsの技術を利用して「枯山水」を学習したモデルを使ったインスタレーション作品
 - [MIKU BREAK ver.1.0](https://thinkandsense.com/works/miku-break-1/)
