@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 06 / 27 / 2023
+last-update: 09 / 01 / 2023
 </div>
 
 ## 💁 情報
@@ -65,6 +65,12 @@ last-update: 06 / 27 / 2023
 ### 💬 THINK&SENSE(現職)
 
 #### 2023
+- [TOKYO LIGHTS 2023 IMMERSIVE WALL](https://prtimes.jp/main/html/rd/p/000000013.000090122.html)
+  - プロジェクション投影システム開発
+- [マンガダイブ2023 SHINJUKU](https://prtimes.jp/main/html/rd/p/000000455.000011454.html)
+  - チェンソーマン、ダンダダンの一部CG映像制作＋プロジェクション投影システム開発
+- [NHK技研2023「イマーシブメディアが描くコンテンツの未来」](https://www.nhk.or.jp/strl/open2023/tenji/t1/index.html)
+  - 22.2マルチチャンネル音響と連携した8K+4K映像コンテンツ制作（Unreal Engine + TouchDesigner）
 - [OAU 「セラヴィ -c’est la vie-」](https://thinkandsense.com/works/oau-cest-la-vie/)
   - NeRF(Neural Radiance Fields)に関する技術検証
 - [BRAHMAN 暗影演舞](https://thinkandsense.com/works/brahman-aneienbu/)
