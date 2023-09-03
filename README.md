@@ -24,42 +24,6 @@ last-update: 09 / 01 / 2023
 |2019/12|カヤックアキバスタジオ 転籍出向|
 |2021/05|THINK&SENSE 入社|
 
-## 💁 スキル
-### 💬 プログラミング
-📦 実務
-```
-□ C# (Unity)
-□ Go
-□ Perl
-```
-📦 趣味
-```
-□ Python
-□ GLSL
-□ Processing(p5js)
-```
-
-### 💬 ツール / ソフトウェア
-📦 よく使う
-```
-□ Unity
-□ TouchDesigner
-□ Unreal Engine
-□ Blender
-```
-📦 使ったことがある
-```
-□ Houdini
-□ Disguise
-□ Notch
-```
-📦 触ったことがある
-```
-□ DaVinci Resolve
-□ Smode
-□ C4D
-```
-
 ## 💁 職務経歴(新しい順)
 
 ### 💬 THINK&SENSE(現職)
@@ -67,6 +31,8 @@ last-update: 09 / 01 / 2023
 #### 2023
 - [TOKYO LIGHTS 2023 IMMERSIVE WALL](https://prtimes.jp/main/html/rd/p/000000013.000090122.html)
   - プロジェクション投影システム開発
+- [MIKU BREAKver.2.0](https://twitter.com/MIKU_BREAK/status/1694349617276858478)
+  - 一部映像演出、VJシステム開発（TouchDesigner）
 - [マンガダイブ2023 SHINJUKU](https://prtimes.jp/main/html/rd/p/000000455.000011454.html)
   - チェンソーマン、ダンダダンの一部CG映像制作＋プロジェクション投影システム開発
 - [NHK技研2023「イマーシブメディアが描くコンテンツの未来」](https://www.nhk.or.jp/strl/open2023/tenji/t1/index.html)
@@ -130,6 +96,39 @@ last-update: 09 / 01 / 2023
   - 残業の見える化。
   - 技術スキルの見える化。
   - ペアプロランチ実施。
+
+## 💁 スキル
+
+### 💬よく使う
+```
+□ TouchDesigner
+□ Unity
+□ Unreal Engine
+□ Blender
+□ disguise
+```
+
+### 💬たまに使う
+```
+□ Houdini
+□ Processing
+□ Notch
+```
+
+### 💬使ったことある
+```
+□ Cinema4D
+□ Smode
+```
+
+### 📦 プログラミング言語
+```
+□ Python
+□ C#
+□ Perl
+□ Go
+□ Shader(GLSL)
+```
 
 ## 💁 業務外活動
 ### 💬 p5jsオリジナル作品集
