@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 09 / 01 / 2023
+last-update: 09 / 22 / 2023
 </div>
 
 ## 💁 情報
@@ -29,8 +29,10 @@ last-update: 09 / 01 / 2023
 ### 💬 THINK&SENSE(現職)
 
 #### 2023
+- [MIRRORLIAR FILMS FESTIVAL party 2023](https://thinkandsense.com/works/mirrorliar-films-festival-party-2023/)
+  - VJ（TouchDesigner）
 - [TOKYO LIGHTS 2023 IMMERSIVE WALL](https://prtimes.jp/main/html/rd/p/000000013.000090122.html)
-  - プロジェクション投影システム開発
+  - プロジェクション投影システム開発（disguise）
 - [MIKU BREAKver.2.0](https://twitter.com/MIKU_BREAK/status/1694349617276858478)
   - 一部映像演出、VJシステム開発（TouchDesigner）
 - [マンガダイブ2023 SHINJUKU](https://prtimes.jp/main/html/rd/p/000000455.000011454.html)
