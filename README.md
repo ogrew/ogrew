@@ -29,23 +29,27 @@ last-update: 09 / 22 / 2023
 ### 💬 THINK&SENSE(現職)
 
 #### 2023
+- [マンガダイブ『キングダム』1億の光](https://natalie.mu/comic/news/549980)
+  - インタラクティブ映像監修、プロジェクション投影システム開発（disguise）
 - [MIRRORLIAR FILMS FESTIVAL party 2023](https://thinkandsense.com/works/mirrorliar-films-festival-party-2023/)
   - VJ（TouchDesigner）
 - [TOKYO LIGHTS 2023 IMMERSIVE WALL](https://prtimes.jp/main/html/rd/p/000000013.000090122.html)
   - プロジェクション投影システム開発（disguise）
 - [MIKU BREAKver.2.0](https://twitter.com/MIKU_BREAK/status/1694349617276858478)
-  - 一部映像演出、VJシステム開発（TouchDesigner）
+  - 「神っぽいな」映像演出、VJシステム開発（TouchDesigner）
+- ジャンプビクトリーカーニバル 2023 & ニューヨークコミコン2023
+  - 「呪術廻戦」の一部CG映像制作
 - [マンガダイブ2023 SHINJUKU](https://prtimes.jp/main/html/rd/p/000000455.000011454.html)
-  - チェンソーマン、ダンダダンの一部CG映像制作＋プロジェクション投影システム開発
+  - 「チェンソーマン」、「ダンダダン」の一部CG映像制作＋プロジェクション投影システム開発
 - [NHK技研2023「イマーシブメディアが描くコンテンツの未来」](https://www.nhk.or.jp/strl/open2023/tenji/t1/index.html)
   - 22.2マルチチャンネル音響と連携した8K+4K映像コンテンツ制作（Unreal Engine + TouchDesigner）
 - [OAU 「セラヴィ -c’est la vie-」](https://thinkandsense.com/works/oau-cest-la-vie/)
   - NeRF(Neural Radiance Fields)に関する技術検証
 - [BRAHMAN 暗影演舞](https://thinkandsense.com/works/brahman-aneienbu/)
   - 一部人気楽曲のライブ演出の製作、オペレーションを担当
+#### 2022
 - [マンガダイブ ジャンプフェスタ2023](https://thinkandsense.com/works/mangadivejumpfesta23/)
   - 人気漫画「チェンソーマン」の映像演出を担当（TouchDesigner）
-#### 2022
 - [両足院マルチバース展2022](https://thinkandsense.com/works/ryosokuin-multiverse-2022/)
   - Kinectでいけばなの成長・退化の様子をセンシングした結果をデータビジュアライズ（TouchDesigner）
 - [マンガダイブ ジャンプフェスタ2023](https://thinkandsense.com/works/mangadivejumpfesta23/)
