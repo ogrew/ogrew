@@ -29,6 +29,8 @@ last-update: 09 / 22 / 2023
 ### 💬 THINK&SENSE(現職)
 
 #### 2023
+- [MIKU BREAK Xmas Party @Zepp Shinjuku](https://twitter.com/MIKU_BREAK/status/1738921456770470108)
+  - ピノキオピー「神っぽいな」映像制作（p5.js / TouchDesigner）
 - [マンガダイブ『キングダム』1億の光](https://natalie.mu/comic/news/549980)
   - インタラクティブ映像監修、プロジェクション投影システム開発（disguise）
 - [MIRRORLIAR FILMS FESTIVAL party 2023](https://thinkandsense.com/works/mirrorliar-films-festival-party-2023/)
@@ -36,7 +38,7 @@ last-update: 09 / 22 / 2023
 - [TOKYO LIGHTS 2023 IMMERSIVE WALL](https://prtimes.jp/main/html/rd/p/000000013.000090122.html)
   - プロジェクション投影システム開発（disguise）
 - [MIKU BREAKver.2.0](https://twitter.com/MIKU_BREAK/status/1694349617276858478)
-  - 「神っぽいな」映像演出、VJシステム開発（TouchDesigner）
+  - ピノキオピー「神っぽいな」映像演出、VJシステム開発（TouchDesigner）
 - ジャンプビクトリーカーニバル 2023 & ニューヨークコミコン2023
   - 「呪術廻戦」の一部CG映像制作
 - [マンガダイブ2023 SHINJUKU](https://prtimes.jp/main/html/rd/p/000000455.000011454.html)
