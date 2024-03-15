@@ -28,6 +28,10 @@ last-update: 09 / 22 / 2023
 
 ### 💬 THINK&SENSE(現職)
 
+#### 2024
+- [「現代のお茶会」- cainoya&冬夏&THINK AND SENSEイベント](https://www.instagram.com/p/C4eiCw7ypwi)
+  - PenPlotterを使ったアートグラフィックの制作（お料理のメニュー表）
+
 #### 2023
 - [MIKU BREAK Xmas Party @Zepp Shinjuku](https://twitter.com/MIKU_BREAK/status/1738921456770470108)
   - ピノキオピー「神っぽいな」映像制作（p5.js / TouchDesigner）
