@@ -31,6 +31,8 @@ last-update: 09 / 22 / 2023
 #### 2024
 - [「現代のお茶会」- cainoya&冬夏&THINK AND SENSEイベント](https://www.instagram.com/p/C4eiCw7ypwi)
   - PenPlotterを使ったアートグラフィックの制作（お料理のメニュー表）
+- [マンガダイブ2024 NIHONBASHI](https://news.yahoo.co.jp/expert/articles/1c7ba768ce4f0a7758db0790d194797dbcc5f28d)
+  - 「推しの子」のイマーシブCGライブ映像の制作、disguiseのプロジェクションプロジェクト開発
 
 #### 2023
 - [MIKU BREAK Xmas Party @Zepp Shinjuku](https://twitter.com/MIKU_BREAK/status/1738921456770470108)
