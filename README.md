@@ -147,6 +147,9 @@ last-update: 09 / 22 / 2023
 ## 💁 業務外活動
 ### 💬 p5jsオリジナル作品集
   - [Kraft / creative coding book 2022 /](https://dn0t.booth.pm/items/4030928)
+### 💬 NFT作品
+  - [デジタルアートとNFTで資源循環とコミュニティ醸成を促す 新サービス「MEGURU CLUB」を商業施設・オフィス向けに提供開始](https://www.amita-hd.co.jp/news/240704_meguruclub.html)
+  - [Celebration of fxhash 2.0 Launch Curated by KUMALEON](https://www.fxhash.xyz/generative/slug/after-joy)
 ### 💬 TDSW で TouchDesigner の講座 (2019 / 10 / 06)
   - [【 バナナを回したその後は。】 by Ohkawara Ayato](https://xsquare002.peatix.com/view)
 ### 💬 PCJ ZINEの制作
