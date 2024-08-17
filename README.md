@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 09 / 22 / 2023
+last-update: 08 / 17 / 2024
 </div>
 
 ## 💁 情報
@@ -29,7 +29,7 @@ last-update: 09 / 22 / 2023
 ### 💬 THINK&SENSE(現職)
 
 #### 2024
-- [「現代のお茶会」- cainoya&冬夏&THINK AND SENSEイベント](https://www.instagram.com/p/C4eiCw7ypwi)
+- [「現代のお茶会」- cainoya&冬夏&THINK AND SENSEイベント](https://thinkandsense.com/works/gendai_no_ochakai/)
   - PenPlotterを使ったアートグラフィックの制作（お料理のメニュー表）
 - [マンガダイブ2024 NIHONBASHI](https://news.yahoo.co.jp/expert/articles/1c7ba768ce4f0a7758db0790d194797dbcc5f28d)
   - 「推しの子」のイマーシブCGライブ映像の制作、disguiseのプロジェクションプロジェクト開発
@@ -149,7 +149,7 @@ last-update: 09 / 22 / 2023
   - [Kraft / creative coding book 2022 /](https://dn0t.booth.pm/items/4030928)
 ### 💬 NFT作品
   - [デジタルアートとNFTで資源循環とコミュニティ醸成を促す 新サービス「MEGURU CLUB」を商業施設・オフィス向けに提供開始](https://www.amita-hd.co.jp/news/240704_meguruclub.html)
-  - [Celebration of fxhash 2.0 Launch Curated by KUMALEON](https://www.fxhash.xyz/generative/slug/after-joy)
+  - ["after joy" Celebration of fxhash 2.0 Launch Curated by KUMALEON](https://www.fxhash.xyz/generative/slug/after-joy)
 ### 💬 TDSW で TouchDesigner の講座 (2019 / 10 / 06)
   - [【 バナナを回したその後は。】 by Ohkawara Ayato](https://xsquare002.peatix.com/view)
 ### 💬 PCJ ZINEの制作
@@ -179,4 +179,4 @@ last-update: 09 / 22 / 2023
 カジュアル面談は随時募集しています。
 もしも、レジュメを読んでご興味持っていただけた方はSNSなどからお気軽にご連絡ください。
 
-以上
+以上です。
