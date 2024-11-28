@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 08 / 17 / 2024
+last-update: 11 / 28 / 2024
 </div>
 
 ## 💁 情報
@@ -29,6 +29,9 @@ last-update: 08 / 17 / 2024
 ### 💬 THINK&SENSE(現職)
 
 #### 2024
+- [スーパー耐久シリーズ2024ファイナル富士にてイマーシブコンテンツを出展](https://global.toyota/jp/newsroom/corporate/41743152.html)
+  - 屋外ドーム型シアターでのイマーシブ映像の体験設計と映像開発。
+  - [fulldome.proと協力。](https://www.instagram.com/p/DCrHJm_yxSa/)
 - [「現代のお茶会」- cainoya&冬夏&THINK AND SENSEイベント](https://thinkandsense.com/works/gendai_no_ochakai/)
   - PenPlotterを使ったアートグラフィックの制作（お料理のメニュー表）
 - [マンガダイブ2024 NIHONBASHI](https://news.yahoo.co.jp/expert/articles/1c7ba768ce4f0a7758db0790d194797dbcc5f28d)
