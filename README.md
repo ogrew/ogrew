@@ -29,7 +29,7 @@ last-update: 02 / 03 / 2025
 ### 💬 THINK&SENSE(現職)
 
 #### 2024
-- [スーパー耐久シリーズ2024ファイナル富士にてイマーシブコンテンツを出展](https://global.toyota/jp/newsroom/corporate/41743152.html)
+- [スーパー耐久シリーズ2024ファイナル富士にてTOYOTAイマーシブコンテンツを出展](https://global.toyota/jp/newsroom/corporate/41743152.html)
   - 屋外ドーム型シアターでのイマーシブ映像の体験設計と映像開発。
   - [fulldome.proと協力。](https://www.instagram.com/p/DCrHJm_yxSa/)
 - [「現代のお茶会」- cainoya&冬夏&THINK AND SENSEイベント](https://thinkandsense.com/works/gendai_no_ochakai/)
@@ -119,21 +119,21 @@ last-update: 02 / 03 / 2025
 ### 💬よく使う
 ```
 □ TouchDesigner
-□ Unity
 □ Unreal Engine
+□ Unity
 □ Blender
-□ disguise
 ```
 
 ### 💬たまに使う
 ```
 □ Houdini
 □ Processing
-□ Notch
+□ disguise
 ```
 
 ### 💬使ったことある
 ```
+□ Notch
 □ Cinema4D
 □ Smode
 ```
@@ -181,8 +181,6 @@ last-update: 02 / 03 / 2025
 
 ## 💁 転職意欲
 
-現在は、活気と熱量のある職場に在籍しており、積極的に転職活動を行っておりません。
-カジュアル面談は随時募集しています。
-もしも、レジュメを読んでご興味持っていただけた方はSNSなどからお気軽にご連絡ください。
+もしも、レジュメを読んでご興味持っていただけた方は各種SNSからご連絡ください。
 
 以上です。
