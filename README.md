@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 11 / 28 / 2024
+last-update: 02 / 03 / 2025
 </div>
 
 ## 💁 情報
@@ -149,10 +149,13 @@ last-update: 11 / 28 / 2024
 
 ## 💁 業務外活動
 ### 💬 p5jsオリジナル作品集
+  - [Kafka / creative coding book 2024 /](https://dn0t.booth.pm/items/6156609)
   - [Kraft / creative coding book 2022 /](https://dn0t.booth.pm/items/4030928)
 ### 💬 NFT作品
   - [デジタルアートとNFTで資源循環とコミュニティ醸成を促す 新サービス「MEGURU CLUB」を商業施設・オフィス向けに提供開始](https://www.amita-hd.co.jp/news/240704_meguruclub.html)
   - ["after joy" Celebration of fxhash 2.0 Launch Curated by KUMALEON](https://www.fxhash.xyz/generative/slug/after-joy)
+### 💬 イベントKV
+  - [“データビジュアライゼーションとサステナビリティ”イベントKV制作](https://www.iamas.ac.jp/activity/20241017_ggp_datavisualization/)
 ### 💬 TDSW で TouchDesigner の講座 (2019 / 10 / 06)
   - [【 バナナを回したその後は。】 by Ohkawara Ayato](https://xsquare002.peatix.com/view)
 ### 💬 PCJ ZINEの制作
