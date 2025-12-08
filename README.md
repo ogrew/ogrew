@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 02 / 03 / 2025
+last-update: 12 / 08 / 2025
 </div>
 
 ## 💁 情報
@@ -20,13 +20,23 @@ last-update: 02 / 03 / 2025
 |---|---|
 |2012/04|東北大学 工学部 情報知能システム総合学科 入学|
 |2016/04|東北大学 大学院 工学研究科 電子工学専攻 修士課程 入学|
-|2017/04|株式会社カヤック 入社|
+|2017/04|面白法人カヤック 入社|
 |2019/12|カヤックアキバスタジオ 転籍出向|
 |2021/05|THINK&SENSE 入社|
+|2025/06|PARTY 入社|
 
 ## 💁 職務経歴(新しい順)
 
-### 💬 THINK&SENSE(現職)
+### 💬 PARTY
+
+#### 2025
+
+- [虎ノ門ヒルズ 東京2025世界陸上 応援プログラム「400cM走」](https://prty.jp/projects-detail/400cm-race)
+  - システム開発。
+- [CIRCULAR JOURNEY :BlueRebirth @Japan Mobility Show2025](https://prty.jp/projects-detail/bluerebirth_jms2025)
+  - デバッグ作業。
+
+### 💬 THINK&SENSE
 
 #### 2024
 - [スーパー耐久シリーズ2024ファイナル富士にてTOYOTAイマーシブコンテンツを出展](https://global.toyota/jp/newsroom/corporate/41743152.html)
