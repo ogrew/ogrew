@@ -1,7 +1,7 @@
 # 💾 Resume
 
 <div style="text-align: right;">
-last-update: 12 / 08 / 2025
+last-update: 02 / 27 / 2026
 </div>
 
 ## 💁 情報
@@ -28,6 +28,10 @@ last-update: 12 / 08 / 2025
 ## 💁 職務経歴(新しい順)
 
 ### 💬 PARTY
+
+#### 2026
+- [横浜DeNAベイスターズ　選手・監督へ想いを届ける声援投稿サイト『POWER OF YELL』](https://prty.jp/projects-detail/power-of-yell)
+  - サーバサイド＆インフラの設計および開発。
 
 #### 2025
 
@@ -124,40 +128,13 @@ last-update: 12 / 08 / 2025
   - 技術スキルの見える化。
   - ペアプロランチ実施。
 
-## 💁 スキル
-
-### 💬よく使う
-```
-□ TouchDesigner
-□ Unreal Engine
-□ Unity
-□ Blender
-```
-
-### 💬たまに使う
-```
-□ Houdini
-□ Processing
-□ disguise
-```
-
-### 💬使ったことある
-```
-□ Notch
-□ Cinema4D
-□ Smode
-```
-
-### 📦 プログラミング言語
-```
-□ Python
-□ C#
-□ Perl
-□ Go
-□ Shader(GLSL)
-```
-
 ## 💁 業務外活動
+### 💬 DIG SHIBUYA 2026プログラム「SCREENS CONTEXTUALIZED」公募作品採択
+  - [Above the City](https://neort.io/ja/art/d579q82bpckv2j3l6980)
+### 第4回 DIGITAL SPRINGBOARD「都市空間のメディアと環境」公募作品採択
+  - [FEEDSCAPE](https://neort.io/ja/art/d4lanoabpckv2j3kt470)
+### 第1回 DIGITAL SPRINGBOARD「PERFORMED IMAGE」公募作品採択
+  - [Accumulation Protocol](https://neort.io/ja/art/d2itpuudkg0sehilmk8g)
 ### 💬 p5jsオリジナル作品集
   - [Kafka / creative coding book 2024 /](https://dn0t.booth.pm/items/6156609)
   - [Kraft / creative coding book 2022 /](https://dn0t.booth.pm/items/4030928)
@@ -180,6 +157,39 @@ last-update: 12 / 08 / 2025
   - [【MV】Citrus in the rain「きまぐれウィークエンド」- Music Video](https://www.youtube.com/watch?v=CdJw2mQBGnw)
   - [【MV】Citrus in the rain「ラブ イン ザ クローゼット」- Music Video](https://www.youtube.com/watch?v=Xltg_KQiYxY)
   - [【MV】Citrus in the rain「Night Owl」- Music Video](https://www.youtube.com/watch?v=8wFVeFkKIU8)
+
+## 💁 スキル
+
+### 💬よく使う
+```
+□ TouchDesigner
+□ Unreal Engine
+□ Unity
+□ Blender
+```
+
+### 💬たまに使う
+```
+□ Houdini
+□ p5.js (Processing)
+□ disguise
+```
+
+### 💬使ったことある
+```
+□ Notch
+□ Cinema4D
+□ Smode
+```
+
+### 📦 プログラミング言語
+```
+□ Python
+□ C#
+□ Perl
+□ Go
+□ Shader(GLSL)
+```
 
 ## 💁 ポエム
 [みんなの「理念解釈」 浦島太郎の教訓と２つの"スキ"](https://www.kayac.com/news/2019/06/philosophy_blog_vol9) 
