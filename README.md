@@ -27,6 +27,10 @@ last-update: 02 / 27 / 2026
 
 ## 💁 職務経歴(新しい順)
 
+### 💬 enigma
+
+（調整中）
+
 ### 💬 PARTY
 
 #### 2026
@@ -129,11 +133,17 @@ last-update: 02 / 27 / 2026
   - ペアプロランチ実施。
 
 ## 💁 業務外活動
+
+### 💬 「#SCREENS_CONTEXUALIZED_TOKYO」公募作品採択(Artcrush / NEORT)
+  - [Residual Lines](https://neort.io/ja/art/d81cqgqpogmdhik5o8r0)
+  - [TYO](https://neort.io/ja/art/d80v3pqpogmdhik5nnug)
+### 💬 すき間の美術館 vol.1(LIVE BOARD / NEORT)
+  - [Above the City](https://neort.io/ja/exhibition/d7kqulopbri3l6l45djg)
 ### 💬 DIG SHIBUYA 2026プログラム「SCREENS CONTEXTUALIZED」公募作品採択
   - [Above the City](https://neort.io/ja/art/d579q82bpckv2j3l6980)
-### 第4回 DIGITAL SPRINGBOARD「都市空間のメディアと環境」公募作品採択
+### 💬 第4回 DIGITAL SPRINGBOARD「都市空間のメディアと環境」公募作品採択
   - [FEEDSCAPE](https://neort.io/ja/art/d4lanoabpckv2j3kt470)
-### 第1回 DIGITAL SPRINGBOARD「PERFORMED IMAGE」公募作品採択
+### 💬 第1回 DIGITAL SPRINGBOARD「PERFORMED IMAGE」公募作品採択
   - [Accumulation Protocol](https://neort.io/ja/art/d2itpuudkg0sehilmk8g)
 ### 💬 p5jsオリジナル作品集
   - [Kafka / creative coding book 2024 /](https://dn0t.booth.pm/items/6156609)
